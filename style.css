@@ -348,6 +348,24 @@ nav a:hover {
     margin-top: 20px;
 }
 
+.fa-instagram{
+    font-size: 25px;
+}
+.fa-telegram{
+    font-size: 25px;
+}
+.fa-linkedin{
+    font-size: 25px;
+}
+.fa-x-twitter{
+    font-size: 25px;
+}
+.fa-github{
+    font-size: 25px;
+
+}
+
+
 /* .social-links a{
     color: #f5f5dc;
     margin: 0 8px;
